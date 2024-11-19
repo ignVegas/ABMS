@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Vegas\source\repos\ABMS\main.cpp(27,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ABMS.vcxproj -> C:\Users\Vegas\source\repos\ABMS\x64\Debug\ABMS.exe
