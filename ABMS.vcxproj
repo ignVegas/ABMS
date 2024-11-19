@@ -129,12 +129,14 @@
   <ItemGroup>
     <ClCompile Include="Login\Login.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="UI\UIUtils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Accounts\account.h" />
     <ClInclude Include="Accounts\manager_acc.h" />
     <ClInclude Include="Accounts\user_acc.h" />
     <ClInclude Include="Login\Login.h" />
+    <ClInclude Include="UI\UIUtils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

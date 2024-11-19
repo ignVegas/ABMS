@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Login">
       <UniqueIdentifier>{f3881ff8-b114-420f-94e7-810d93b56620}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{7c904489-cc71-4375-8f93-b49c0911b74f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="Login\Login.cpp">
       <Filter>Source Files\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\UIUtils.cpp">
+      <Filter>Source Files\UI</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -40,6 +46,9 @@
     </ClInclude>
     <ClInclude Include="Login\Login.h">
       <Filter>Source Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\UIUtils.h">
+      <Filter>Source Files\UI</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
