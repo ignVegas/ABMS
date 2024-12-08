@@ -1,24 +1,7 @@
 #include "UIUtils.h"
 #include <iostream>
 #include <Windows.h>
-#include "../Login/login.h"
 
-Login login; // log obj
-std::string currentUsername;  // Variable to hold the username after login
-
-void handleLogin(bool manager) {
-	if (manager)
-    {
-		login.loadManagers();
-		while (!login.managerLogin()) {}
-	}
-    else 
-    {
-        login.loadUsers();
-        while (!login.userLogin()) {}
-        displayBalanceMenu(login.username);
-    }
-}
 
 
 void getConsoleSize(int& width, int& height) {
@@ -59,7 +42,7 @@ void displayLoginMenu() {
 }
 
 
-void displayBalanceMenu(const std::string& username) {
+void displayBalanceMenu(UserAccount* currentUser) {
     system("cls");  // Clears the screen
     int consoleWidth, consoleHeight;
     getConsoleSize(consoleWidth, consoleHeight);
@@ -71,20 +54,20 @@ void displayBalanceMenu(const std::string& username) {
         std::cout << std::endl;
     }
 
-    // Display the header
+    // Retrieve user account details
+    std::string accountID = currentUser->getAccountNumber();
+    double balance = currentUser->getBalance();
+
+    // Display the balance and options
     printCentered("=========================", consoleWidth);
     printCentered("          MANAGE         ", consoleWidth);
     printCentered("=========================", consoleWidth);
-
-    // Display the balance and options
-    printCentered("Balance: $" + std::to_string(login.userBalances[username]), consoleWidth);
+    printCentered("Account: " + accountID, consoleWidth);
+    printCentered("Balance: $" + std::to_string(balance), consoleWidth);
     printCentered("=========================", consoleWidth);
     printCentered("1. Deposit", consoleWidth);
     printCentered("2. Withdraw", consoleWidth);
     printCentered("3. View Transactions", consoleWidth);
     printCentered("4. Exit", consoleWidth);
     printCentered("=========================", consoleWidth);
-    int choice;
-    std::cin >> choice;
-
 }

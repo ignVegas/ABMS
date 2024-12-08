@@ -1,3 +1,6 @@
+#ifndef ACCOUNT_H
+#define ACCOUNT_H
+
 #include <string>
 #include <vector>
 
@@ -17,3 +20,5 @@ public:
     double getBalance() const { return balance; }
     std::string getAccountNumber() const { return accountNumber; }
 };
+
+#endif // ACCOUNT_H

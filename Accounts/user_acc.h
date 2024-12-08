@@ -1,13 +1,15 @@
-#include "../Accounts/account.h"
-#include <iostream>
-#include <vector>
+#include "account.h"
+
+#ifndef USERACCOUNT_H
+#define USERACCOUNT_H
 
 class UserAccount : public Account {
 private:
     std::vector<std::string> transactionHistory;
 
 public:
-    UserAccount(std::string accNum, double bal) : Account(accNum, bal) {}
+    UserAccount(std::string accNum, double bal)
+        : Account(accNum, bal) {}
 
     void deposit(double amount) override {
         balance += amount;
@@ -32,4 +34,14 @@ public:
             std::cout << transaction << std::endl;
         }
     }
+    double getBalance() const {
+        return balance;
+    }
+
+    std::string getAccountNumber() const {
+        return accountNumber;
+    }
 };
+
+
+#endif // USERACCOUNT_H

@@ -1,2 +1,5 @@
-﻿  Login.cpp
+﻿  UIUtils.cpp
+C:\Users\Vegas\source\repos\ABMS\UI\UIUtils.cpp(16,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
   ABMS.vcxproj -> C:\Users\Vegas\source\repos\ABMS\x64\Debug\ABMS.exe

@@ -1,5 +1,9 @@
 #include "Login.h"
 #include <Windows.h>
+#include "../Accounts/user_acc.h"
+
+std::unordered_map<std::string, UserAccount> userAccounts;
+
 void Login::loadUsers() {
     std::ifstream inFile("users.txt");
     if (!inFile) {
@@ -55,6 +59,7 @@ bool Login::managerLogin() {
     return true;
 }
 
+
 bool Login::userLogin() {
     std::string username, password;
 
@@ -73,7 +78,36 @@ bool Login::userLogin() {
         return false;
     }
 
-	Login::username = username;
+    // Locate user account data
+    std::ifstream inFile("users.txt");
+    if (!inFile) {
+        std::cerr << "Error: Could not open users.txt" << std::endl;
+        return false;
+    }
+
+    std::string fileUsername, filePassword, accountID;
+    double balance;
+    while (inFile >> fileUsername >> filePassword >> accountID >> balance) {
+        if (fileUsername == username) {
+            currentUser = new UserAccount(accountID, balance);
+            break;
+        }
+    }
+    inFile.close();
+
+    if (currentUser == nullptr) {
+        std::cout << "Error: Account data not found for user." << std::endl;
+        return false;
+    }
+
     std::cout << "Login successful! Welcome, " << username << "!" << std::endl;
     return true;
+}
+
+bool Login::handleLogin(bool isManager) {
+    if (isManager) {
+        return Login::managerLogin();
+    } else {
+        return Login::userLogin();
+    }
 }

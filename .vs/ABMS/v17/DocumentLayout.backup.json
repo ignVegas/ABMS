@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Vegas\\source\\repos\\ABMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:Login\\login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:UI\\UIUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:UI\\UIUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:UI\\UIUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\Login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,12 +19,28 @@
       "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:Accounts\\user_acc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\manager_acc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:Accounts\\manager_acc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:UI\\UIUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:Accounts\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\Login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:Login\\Login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\manager_acc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10778057-ED0A-4451-BC96-F1CA4839226B}|ABMS.vcxproj|solutionrelative:Accounts\\manager_acc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vegas\\source\\repos\\ABMS\\manager_acc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:manager_acc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\UserAccountManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Accounts\\UserAccountManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +50,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserAccountManager.h",
+              "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\UserAccountManager.h",
+              "RelativeDocumentMoniker": "Accounts\\UserAccountManager.h",
+              "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\UserAccountManager.h",
+              "RelativeToolTip": "Accounts\\UserAccountManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T03:32:17.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "manager_acc.cpp",
+              "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\manager_acc.cpp",
+              "RelativeDocumentMoniker": "manager_acc.cpp",
+              "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\manager_acc.cpp",
+              "RelativeToolTip": "manager_acc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T02:22:21.703Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,105 +84,105 @@
               "RelativeDocumentMoniker": "UI\\UIUtils.cpp",
               "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.cpp",
               "RelativeToolTip": "UI\\UIUtils.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-19T01:56:17.227Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UIUtils.h",
-              "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.h",
-              "RelativeDocumentMoniker": "UI\\UIUtils.h",
-              "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.h",
-              "RelativeToolTip": "UI\\UIUtils.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-19T01:55:58.667Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.h",
-              "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\Login.h",
-              "RelativeDocumentMoniker": "Login\\Login.h",
-              "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\Login.h",
-              "RelativeToolTip": "Login\\Login.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-19T00:44:32.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Login.cpp",
               "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\Login.cpp",
               "RelativeDocumentMoniker": "Login\\Login.cpp",
               "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\Login.cpp",
               "RelativeToolTip": "Login\\Login.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAawFoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-19T00:44:30.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "UIUtils.h",
+              "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.h",
+              "RelativeDocumentMoniker": "UI\\UIUtils.h",
+              "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\UI\\UIUtils.h",
+              "RelativeToolTip": "UI\\UIUtils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T01:55:58.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.h",
+              "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\Login.h",
+              "RelativeDocumentMoniker": "Login\\Login.h",
+              "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Login\\Login.h",
+              "RelativeToolTip": "Login\\Login.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T00:44:32.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "account.h",
               "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\account.h",
               "RelativeDocumentMoniker": "Accounts\\account.h",
               "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\account.h",
               "RelativeToolTip": "Accounts\\account.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-19T00:29:37.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "manager_acc.h",
               "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\manager_acc.h",
               "RelativeDocumentMoniker": "Accounts\\manager_acc.h",
               "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\manager_acc.h",
               "RelativeToolTip": "Accounts\\manager_acc.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-19T00:23:58.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "user_acc.h",
               "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\user_acc.h",
               "RelativeDocumentMoniker": "Accounts\\user_acc.h",
               "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\Accounts\\user_acc.h",
               "RelativeToolTip": "Accounts\\user_acc.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-19T00:22:09.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Vegas\\source\\repos\\ABMS\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Vegas\\source\\repos\\ABMS\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-19T00:13:54.652Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
